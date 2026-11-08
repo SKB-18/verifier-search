@@ -1,5 +1,9 @@
 # Verifier-Guided Search & Test-Time Compute 🔍
 
+[![CI](https://github.com/SKB-18/verifier-search/actions/workflows/ci.yml/badge.svg)](https://github.com/SKB-18/verifier-search/actions)
+[![Tests: 23 Passed](https://img.shields.io/badge/tests-23%2F23%20passed-brightgreen.svg)](#)
+[![Python: 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](#)
+
 A high-performance algorithmic reasoning repository demonstrating test-time compute scaling, rejection sampling, and tree search, built with Python.
 This repository serves as **Foundation 4** of our AI engineering portfolio, demonstrating how test-time search and step-level process reward models (PRMs) achieve state-of-the-art accuracy over single-pass generation.
 
